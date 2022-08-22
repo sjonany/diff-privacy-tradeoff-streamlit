@@ -1,0 +1,2 @@
+- PUMS.yaml. From https://github.com/opendp/smartnoise-sdk/blob/main/datasets/PUMS.yaml. Then I added binned_age
+- PUMS.csv. From https://github.com/opendp/dp-test-datasets/tree/master/data/PUMS_california_demographics_1000
